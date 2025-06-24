@@ -37,7 +37,6 @@ Historical sales data for trend analysis (2012–2022)
 
 # Screenshots / Demos
 Show what the dashboard looks like.- ![Alt text](https://github.com/Gulshan7549/blintkit-Power-BI-Project/blob/main/Blinkit%20Dashboard.PNG)
-Example : ![Dashboard Preview](https://github.com/Gulshan7549/blintkit-Power-BI-Project/blob/main/Blinkit%20Dashboard.PNG)
 
 📬 Contact & Contributions
 Have feedback or want to contribute? Feel free to open an issue or reach out at [gulshankumar_24iem04@dtu.ac.in].
